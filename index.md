@@ -8,6 +8,6 @@
 layout: home
 ---
 
-These pages are used to host on-going project work done within the group of Data Science for Social Impact and Development at the ISI Foundation.
+These pages are used to host on-going project work done through a Data Collaborative between the ISI Foundation and Cuebiq Inc.
 
 The research project focuses on the analysis of human mobility and behavioral changes in Italy during the SARS-CoV-2 outbreak.
