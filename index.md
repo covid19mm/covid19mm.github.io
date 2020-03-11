@@ -8,10 +8,6 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+These pages are used to host on-going project work done within the group of Data Science for Social Impact and Development at the ISI Foundation.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+The research project focuses on the analysis of human mobility and behavioral changes in Italy during the SARS-CoV-2 outbreak.
