@@ -6,9 +6,8 @@ author: The COVID19 MM working group
 categories: in-progress
 #cover:  "assets/instacode.png"
 ---
-[//]: # (
 
-_Authors: Emanuele Pepe, Paolo Bajardi, Laetitia Gauvin, Filippo Privitera, Ciro Cattuto, Michele Tizzoni
+[//]: # (_Authors: Emanuele Pepe, Paolo Bajardi, Laetitia Gauvin, Filippo Privitera, Ciro Cattuto, Michele Tizzoni
 1) ISI Foundation
 2) Cuebiq Inc.
 _
