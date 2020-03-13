@@ -108,7 +108,7 @@ Averaging the fraction of travelers with respect to the weekly user-base on ever
 As shown in the figure below, we observed a drop up to 40% on links connecting Lodi (where the first Italian cluster was detected), while on week 3 several connections both from Northern and Center Italy observed a drop of 50% up to 70% of their traffic.
 
 <p align="center">
-  <img src="{{ site.url }}/assets/rel_diff_share_weekly.png">
+  <img src="{{ site.url }}/assets/gradient_rel_diff_share_count_v1.png">
 </p>
 
 ## Changes in Mixing Patterns
@@ -123,6 +123,10 @@ Finally, we compare the average degree of the network in Week 3 against the aver
 As shown in the figure below, the average degree of the users’ proximity network has decreased significantly in almost all provinces of Italy, in the week of the national lockdown (Provinces with less than 500 users are shown in grey).
 In some provinces (Milano, Piacenza, Rimini, and others), the average network degree has dropped about 30% with respect to the pre-outbreak period.
 
+<p align="center">
+  <img src="{{ site.url }}/assets/network_density.png">
+</p>
+
 ## Changes in Individual Mobility
 
 Heterogeneity in individual mobility can be captured by different mobility metrics. Here, to estimate the characteristic distance traveled by users before and after the outbreak, we computed the radius of gyration of the same population during the weeks before the restrictions and the 3 following weeks.
@@ -134,14 +138,29 @@ While the largest drops in the radius of gyration are mainly observed in the Nor
 
 ### Week 1
 
+<p align="center">
+  <img src="{{ site.url }}/assets/radius_w1_legend.png">
+</p>
+
 ### Week 2
+
+<p align="center">
+  <img src="{{ site.url }}/assets/radius_w2_legend.png">
+</p>
 
 ### Week 3
 
+<p align="center">
+  <img src="{{ site.url }}/assets/radius_w3_legend.png">
+</p>
 
 ## Sample Representativeness
 
 To test the representativeness of our sample, we compared the size of the users’ sample with the census population by province. The figure below shows a scatterplot of the two populations as % of the total, by province. The size of the dots is proportional to the population size. The Pearson population-weighted correlation coefficient between the two datasets is r = 0.85.  
+
+<p align="center">
+  <img src="{{ site.url }}/assets/scatter_cuebiq_census.png">
+</p>
 
 ## Data Protection
 
