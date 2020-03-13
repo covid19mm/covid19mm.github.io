@@ -10,7 +10,9 @@ categories: in-progress
 # COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown
 
 
-_Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)_
+_Authors:_
+
+_Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)_
 
 _1. ISI Foundation_
 
@@ -170,4 +172,5 @@ In order to preserve privacy, residential areas are inferred at an aggregated ge
 
 ## Acknowledgments and Partnerships
 
-This preliminary analysis is a collaboration between ISI Foundation (https://www.isi.it/en/home) and Cuebiq (https://www.cuebiq.com/). Authors at ISI Foundation acknowledge support from the Lagrange Project funded by CRT Foundation and thank Cuebiq for access to a de-identified sample of its mobility data. In response to the COVID-19 crisis, Cuebiq is providing insights to academic and humanitarian groups through a multi-stakeholder data collaborative for timely and ethical analysis of aggregate human mobility patterns.
+This preliminary analysis is a collaboration between the [ISI Foundation](https://www.isi.it/en/home) and [Cuebiq Inc](https://www.cuebiq.com/).
+Authors at ISI Foundation acknowledge support from the Lagrange Project funded by CRT Foundation and thank Cuebiq for access to a de-identified sample of its mobility data. In response to the COVID-19 crisis, Cuebiq is providing insights to academic and humanitarian groups through a multi-stakeholder data collaborative for timely and ethical analysis of aggregate human mobility patterns.
