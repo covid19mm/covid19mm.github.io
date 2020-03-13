@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Report: March 13, 2020"
+title:  "First Report"
 date:  2020-03-13 12:00:00
 author: The COVID19 MM working group
 categories: in-progress
@@ -10,10 +10,10 @@ categories: in-progress
 # COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown
 
 
-*Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)
-1. ISI Foundation
-2. Cuebiq Inc.
-3. University of Turin*
+_Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)_
+_1. ISI Foundation_
+_2. Cuebiq Inc._
+_3. University of Turin_
 
 _**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). A summary of this report can be downloaded  [here]()_
 
@@ -80,7 +80,7 @@ In the week of February 22-28, we observe a marked reduction of mobility between
 The flows of users traveling out of the provinces of Lombardy, Piedmont, Emilia Romagna, and Veneto, decreased by an average of 20% as shown in the Figure below. For the provinces most affected by the outbreak (Lodi, Cremona), the traffic reduction was about 30%.
 
 <p align="center">
-  <img width="250" height="250" src="{{ site.url }}/assets/map_1.png">
+  <img src="{{ site.url }}/assets/map_1.png">
 </p>
 
 ### Week 2
