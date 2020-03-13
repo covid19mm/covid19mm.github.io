@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown"
+title:  "First Report: March 13, 2020"
 date:  2020-03-13 12:00:00
 author: The COVID19 MM working group
 categories: in-progress
@@ -10,10 +10,10 @@ categories: in-progress
 # COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown
 
 
-_Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)
+*Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)
 1. ISI Foundation
 2. Cuebiq Inc.
-3. University of Turin_
+3. University of Turin*
 
 _**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). A summary of this report can be downloaded  [here]()_
 
@@ -80,7 +80,7 @@ In the week of February 22-28, we observe a marked reduction of mobility between
 The flows of users traveling out of the provinces of Lombardy, Piedmont, Emilia Romagna, and Veneto, decreased by an average of 20% as shown in the Figure below. For the provinces most affected by the outbreak (Lodi, Cremona), the traffic reduction was about 30%.
 
 <p align="center">
-  <img width="100" height="200" src="{{ site.url }}/assets/map_1.png">
+  <img width="2578" height="2942" src="{{ site.url }}/assets/map_1.png">
 </p>
 
 ### Week 2
@@ -104,6 +104,9 @@ Thus, weekly and daily province-to-province weighted mobility networks have been
 Averaging the fraction of travelers with respect to the weekly user-base on every link in the 5-weeks period before the outbreak, a baseline value has been estimated.
 As shown in the figure below, we observed a drop up to 40% on links connecting Lodi (where the first Italian cluster was detected), while on week 3 several connections both from Northern and Center Italy observed a drop of 50% up to 70% of their traffic.
 
+<p align="center">
+  <img width="300" height="200" src="{{ site.url }}/assets/rel_diff_share_weekly.png">
+</p>
 
 ## Changes in Mixing Patterns
 Beyond mobility restrictions, other public health interventions such as the ban on public events and gatherings, school closures, etc. have the goal of reducing the number of contacts among individuals in the population.
