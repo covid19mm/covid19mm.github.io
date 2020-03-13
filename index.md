@@ -13,4 +13,4 @@ layout: home
 [//]: # ( The research project analyses anonymized location data to understand the effect of mobility restrictions and behavioral changes
 on the current international SARS-CoV-2 outbreak.)
 
-)
+![Image of Minions](https://it.wikipedia.org/wiki/Cattivissimo_me#/media/File:Cattivissimo_me.jpg)
