@@ -12,7 +12,7 @@ order: 1
 
 [//]: # ( The research team of COVID19 MM is formed by: )
 
-![Image of Minions](https://github.com/covid19mm/covid19mm.github.io/blob/master/images/Minions_characters.png)
+![Image of Minions]({{ site.url }}/assets/Minions_characters.png)
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
