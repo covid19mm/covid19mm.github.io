@@ -12,7 +12,8 @@ order: 1
 
 [//]: # ( The research team of COVID19 MM is formed by: )
 
-![Image of Minions](https://it.wikipedia.org/wiki/Cattivissimo_me#/media/File:Cattivissimo_me.jpg)
+![Image of Minions]
+(https://it.wikipedia.org/wiki/Cattivissimo_me#/media/File:Cattivissimo_me.jpg)
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
