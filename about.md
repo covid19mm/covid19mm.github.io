@@ -15,6 +15,7 @@ order: 1
 
 <p align="center">
   <img width="200" height="100" src="{{ site.url }}/assets/Minions_characters.png">
+  <figcaption>The team</figcaption>
 </p>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
