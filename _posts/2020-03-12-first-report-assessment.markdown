@@ -11,8 +11,11 @@ categories: in-progress
 
 
 _Authors: Emanuele Pepe (1), Paolo Bajardi (1), Laetitia Gauvin (1), Filippo Privitera (2), Ciro Cattuto (1,3), Michele Tizzoni (1)_
+
 _1. ISI Foundation_
+
 _2. Cuebiq Inc._
+
 _3. University of Turin_
 
 _**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). A summary of this report can be downloaded  [here]()_
@@ -87,14 +90,14 @@ The flows of users traveling out of the provinces of Lombardy, Piedmont, Emilia 
 In the week of February 29 - March 6, the mobility between provinces decreased further, especially in the provinces of Lombardy and Emilia Romagna, with reductions up to 30% in Lodi, Cremona, Parma, Piacenza, and Bologna.
 
 <p align="center">
-  <img width="100" height="200" src="{{ site.url }}/assets/map_2.png">
+  <img src="{{ site.url }}/assets/map_2.png">
 </p>
 
 ### Week 3
 In the week of March 7-10, following the national lockdown, we observe a 50% reduction in the movements across all Italian provinces, as shown in the map below.
 
 <p align="center">
-  <img width="100" height="200" src="{{ site.url }}/assets/map_3.png">
+  <img src="{{ site.url }}/assets/map_3.png">
 </p>
 
 ## A Network Perspective
@@ -105,7 +108,7 @@ Averaging the fraction of travelers with respect to the weekly user-base on ever
 As shown in the figure below, we observed a drop up to 40% on links connecting Lodi (where the first Italian cluster was detected), while on week 3 several connections both from Northern and Center Italy observed a drop of 50% up to 70% of their traffic.
 
 <p align="center">
-  <img width="300" height="200" src="{{ site.url }}/assets/rel_diff_share_weekly.png">
+  <img src="{{ site.url }}/assets/rel_diff_share_weekly.png">
 </p>
 
 ## Changes in Mixing Patterns

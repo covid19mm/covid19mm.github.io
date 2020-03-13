@@ -22,11 +22,11 @@ The research team of COVID-19 MM is formed by:
 * [Michele Tizzoni](https://twitter.com/mtizzoni)
 
 <p align="center">
-  <img width="250" height="100" src="{{ site.url }}/assets/cuebiq.png">
+  <img src="{{ site.url }}/assets/cuebiq.png">
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="{{ site.url }}/assets/logo_ISI_positivo.jpg">
+  <img src="{{ site.url }}/assets/logo_ISI_positivo.jpg">
 </p>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
