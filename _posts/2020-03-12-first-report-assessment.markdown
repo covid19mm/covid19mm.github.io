@@ -45,22 +45,31 @@ Following the first local sustained transmission in Italy, the national governme
 Almost every day from February 25th to March 9th novel and stricter policies were declared in an increasing number of Italian provinces. In the following a brief timeline of the main facts and policies implemented are reported:
 
 * **February 18th, 2020**: the first local transmission was observed in Codogno (Lodi province).
+
 * **February 23rd, 2020**: Restriction to access and leave all the municipalities where local outbreaks were observed, 10 of them are located in Lodi province (Lombardia) and 1 of them is located in Padova province (Veneto). [Schools were closed, and all public events at the regional level (Lombardia and Veneto) were suspended as well](https://www.gazzettaufficiale.it/eli/gu/2020/02/23/45/sg/pdf).
+
 * **February 25th, 2020**: [School closure and public events are suspended in Lombardia, Veneto, Emilia Romagna, Friuli Venezia Giulia, Piemonte and Liguria](https://www.gazzettaufficiale.it/eli/gu/2020/02/25/47/sg/pd). All school trips are suspended at the national level. Mild measures to limit access to schools to students that have been sick for longer than 5 days were implemented at the national level.
+
 * **March 8th, 2020**: [Restriction to access and leave all the provinces in Lombardia](https://www.gazzettaufficiale.it/eli/gu/2020/03/08/59/sg/pdf) region plus the Modena, Parma, Piacenza, Reggio nell’Emilia, Rimini, Pesaro e Urbino, Alessandria, Asti, Novara, Verbano-CusioOssola, Vercelli, Padova, Treviso, Venezia provinces.
+
 * **March 9th, 2020**: People are asked to remain home in the entire country: [a national lockdown is declared](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=73629)
+
 * **March 12th, 2020**: all the restaurants and shops must remain closed in the entire country.
 
 
 ## Summary of results
 We are able to assess in near real-time the effects of public health policies on the mobility patterns and social mixing in Italy, by measuring:
 * changes in the traffic fluxes between provinces
+
 * changes in the average distance traveled by users
+
 * changes in the spatial proximity of users
 
 We estimate the effects of the interventions during the first three weeks since the start of the outbreak (February 18, 2020):
 * Week 1: from February 22 to February 28, when first restrictions were introduced in the area of the initial outbreak.
+
 * Week 2: from February 29 to March 6, when restrictions are extended to the North of Italy.
+
 * Week 3: from March 7 to March 10 - National lockdown.
 
 To do so we average different mobility and proximity metrics during the pre-outbreak period (between January 18 and February 19, 2020) and observe their weekly and daily evolution, in real-time, as the intervention policies are enforced.
