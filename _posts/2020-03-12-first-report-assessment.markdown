@@ -173,4 +173,4 @@ In order to preserve privacy, residential areas are inferred at an aggregated ge
 ## Acknowledgments and Partnerships
 
 This preliminary analysis is a collaboration between the [ISI Foundation](https://www.isi.it/en/home) and [Cuebiq Inc](https://www.cuebiq.com/).
-Authors at ISI Foundation acknowledge support from the Lagrange Project funded by CRT Foundation and thank Cuebiq for access to a de-identified sample of its mobility data. In response to the COVID-19 crisis, Cuebiq is providing insights to academic and humanitarian groups through a multi-stakeholder data collaborative for timely and ethical analysis of aggregate human mobility patterns.
+Authors at ISI Foundation acknowledge support from the Lagrange Project funded by CRT Foundation and thank Cuebiq for access to a de-identified sample of its mobility data. In response to the COVID-19 crisis, [Cuebiq is providing insights to academic and humanitarian groups](https://www.cuebiq.com/about/data-for-good/) through a multi-stakeholder data collaborative for timely and ethical analysis of aggregate human mobility patterns.
