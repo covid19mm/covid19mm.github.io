@@ -80,7 +80,7 @@ In the week of February 22-28, we observe a marked reduction of mobility between
 The flows of users traveling out of the provinces of Lombardy, Piedmont, Emilia Romagna, and Veneto, decreased by an average of 20% as shown in the Figure below. For the provinces most affected by the outbreak (Lodi, Cremona), the traffic reduction was about 30%.
 
 <p align="center">
-  <img width="2578" height="2942" src="{{ site.url }}/assets/map_1.png">
+  <img width="250" height="250" src="{{ site.url }}/assets/map_1.png">
 </p>
 
 ### Week 2
