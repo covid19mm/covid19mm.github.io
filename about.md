@@ -26,7 +26,7 @@ The research team of COVID-19 MM is formed by:
 </p>
 
 <p align="center">
-  <img src="{{ site.url }}/assets/logo_ISI_positivo.jpg">
+  <img src="{{ site.url }}/assets/logo_ISI_positivo.jpg" width=50% alt="">
 </p>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
