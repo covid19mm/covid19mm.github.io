@@ -6,6 +6,7 @@ If you use the material published here please give attribution by using the foll
 
 Pepe E, Bajardi P, Gauvin L, Privitera F, Cattuto C, Tizzoni M (2020) _COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown._ URL: https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html
 
+License
 ======
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
