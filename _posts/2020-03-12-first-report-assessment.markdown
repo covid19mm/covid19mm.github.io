@@ -20,7 +20,7 @@ _2. Cuebiq Inc._
 
 _3. University of Turin_
 
-_**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). A summary of this report can be downloaded  [here](https://drive.google.com/open?id=1QJO152wGPyVDzwz6UDOlkv0THf1rJo11)_
+_**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)._
 
 
 ## Background
