@@ -71,6 +71,8 @@ In the figure below, red vertical lines highlight the start of three major inter
 - February 25, 2020: school closure and mobility restrictions imposed on Lombardy, Veneto, Piedmont, Emilia-Romagna, Liguria and Friuli.
 - March 8, 2020: lockdown of the Lombardy region and additional provinces in Piedmont, Veneto, Emilia-Romagna, Marche.
 - March 12, 2020: national lockdown.
+
+
 Grey shaded areas correspond to weekends.
 
 
