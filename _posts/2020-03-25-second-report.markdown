@@ -51,7 +51,7 @@ The procedure to build the proximity network is described in the graph below.
 </p>
 
 If two users have been in proximity several times in a day, this still counts as only one link in the network.
-To measure variations in the network structure over time, we look at the average degree of the network defined as *&lt k &gt = 2E/N*, where _E_ is the number of links and _N_ is the number of nodes of the network.
+To measure variations in the network structure over time, we look at the average degree of the network defined as *&lt; k &gt; = 2E/N*, where _E_ is the number of links and _N_ is the number of nodes of the network.
 It is important to remark that this is not a close-range contact network.
 Rather, it captures a looser notion of social mixing at the chosen spatial and temporal scales. A link between two nodes indicates the possibility that the corresponding individuals have had a close-range encounter during a given day.
 
@@ -62,7 +62,7 @@ We look at how the average degree of the proximity network has evolved in time, 
 The average degree has consistently declined since February 25, all over the Italian regions as shown in the figure below.
 Whereas, before the outbreak, differences in average degree were clearly visible between workdays and weekends, such differences appear to vanish after restrictions measured are rolled out by the Italian Government
 The decline has somehow been faster in the North, due to the early implementation of the restrictions, but after the national lockdown imposed on March 11 the decline has been consistent everywhere.
-In the week of March 14-21, the value of *&lt k &gt* seems to have plateaued almost everywhere.
+In the week of March 14-21, the value of *&lt; k &gt;* seems to have plateaued almost everywhere.
 In Central and Southern Italy, the average degree has slightly increased on March 17-18 but declined again in the following days.
 
 On March 21, the average degree has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
@@ -97,7 +97,7 @@ The black lines correspond to the three major interventions by the government li
 ## Central Italy
 
 In Central Italy, the largest cities such as Rome (RM) and Florence (FI) have seen a strong and consistent decline in the average degree of the users' proximity network, as shown in the chart below, especially after March 8.
-We observe a higher spatial and temporal heterogeneity in the average relative difference of * &lt k &gt *, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
+We observe a higher spatial and temporal heterogeneity in the average relative difference of *&lt; k &gt;*, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
 
 
 <p align="center">
