@@ -97,7 +97,7 @@ The black lines correspond to the three major interventions by the government li
 ## Central Italy
 
 In Central Italy, the largest cities such as Rome (RM) and Florence (FI) have seen a strong and consistent decline in the average degree of the users' proximity network, as shown in the chart below, especially after March 8.
-We observe a higher spatial and temporal heterogeneity in the average relative difference of *&lt k &gt*, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
+We observe a higher spatial and temporal heterogeneity in the average relative difference of * &lt k &gt *, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
 
 
 <p align="center">
