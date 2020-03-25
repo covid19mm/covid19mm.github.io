@@ -51,7 +51,7 @@ The procedure to build the proximity network is described in the graph below.
 </p>
 
 If two users have been in proximity several times in a day, this still counts as only one link in the network.
-To measure variations in the network structure over time, we look at the average degree of the network defined as _<k> = 2E/N_, where _E_ is the number of links and _N_ is the number of nodes of the network.
+To measure variations in the network structure over time, we look at the average degree of the network defined as *<k>* *=* *2E/N*, where *E* is the number of links and *N* is the number of nodes of the network.
 It is important to remark that this is not a close-range contact network.
 Rather, it captures a looser notion of social mixing at the chosen spatial and temporal scales. A link between two nodes indicates the possibility that the corresponding individuals have had a close-range encounter during a given day.
 
