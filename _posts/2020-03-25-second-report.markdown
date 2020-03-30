@@ -52,7 +52,7 @@ The procedure to build the proximity network is described in the graph below.
 </p>
 
 If two users have been in proximity several times in a day, this still counts as only one link in the network.
-To measure variations in the network structure over time, we look at the average degree of the network defined as *&lt; k &gt; = 2E/N*, where _E_ is the number of links and _N_ is the number of nodes of the network.
+To measure variations in the network structure over time, we look at the average degree of the network defined as *&lt;k&gt; = 2E/N*, where _E_ is the number of links and _N_ is the number of nodes of the network.
 It is important to remark that this is not a close-range contact network.
 Rather, it captures a looser notion of social mixing at the chosen spatial and temporal scales. A link between two nodes indicates the possibility that the corresponding individuals have had a close-range encounter during a given day.
 
@@ -66,7 +66,7 @@ The decline has somehow been faster in the North, due to the early implementatio
 In the week of March 14-21, the value of *&lt;k&gt;* seems to have plateaued almost everywhere.
 In Central and Southern Italy, the average degree has slightly increased on March 17-18 but declined again in the following days.
 
-In the figure below, red vertical lines highlight the start of three major interventions by the government:
+In the figures below, red vertical lines highlight the start of three major interventions by the government:
 - February 25, 2020: school closure and mobility restrictions imposed on Lombardy, Veneto, Piedmont, Emilia-Romagna, Liguria and Friuli.
 - March 8, 2020: lockdown of the Lombardy region and additional provinces in Piedmont, Veneto, Emilia-Romagna, Marche.
 - March 12, 2020: national lockdown.
