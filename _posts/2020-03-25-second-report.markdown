@@ -21,6 +21,7 @@ _3. University of Turin_
 
 _**Notice**: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). A summary of this report can be downloaded  [here](https://drive.google.com/open?id=1QJO152wGPyVDzwz6UDOlkv0THf1rJo11)_
 
+**Updated 30 March 2020 23:00**
 
 ## Background
 The mitigation measures enacted as part of the response to the unfolding COVID-19 pandemic are unprecedented in their breadth and societal burden.
@@ -60,27 +61,39 @@ Rather, it captures a looser notion of social mixing at the chosen spatial and t
 
 We look at how the average degree of the proximity network has evolved in time, comparing three macro-regions of Italy: North, Center, and South.
 The average degree has consistently declined since February 25, all over the Italian regions as shown in the figure below.
-Whereas, before the outbreak, differences in average degree were clearly visible between workdays and weekends, such differences appear to vanish after restrictions measured are rolled out by the Italian Government
+Whereas, before the outbreak, differences in average degree were clearly visible between workdays and weekends, such differences appear to vanish after restrictions were rolled out by the Italian Government.
 The decline has somehow been faster in the North, due to the early implementation of the restrictions, but after the national lockdown imposed on March 11 the decline has been consistent everywhere.
-In the week of March 14-21, the value of *&lt; k &gt;* seems to have plateaued almost everywhere.
+In the week of March 14-21, the value of *&lt;k&gt;* seems to have plateaued almost everywhere.
 In Central and Southern Italy, the average degree has slightly increased on March 17-18 but declined again in the following days.
-
-On March 21, the average degree has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
 
 In the figure below, red vertical lines highlight the start of three major interventions by the government:
 - February 25, 2020: school closure and mobility restrictions imposed on Lombardy, Veneto, Piedmont, Emilia-Romagna, Liguria and Friuli.
 - March 8, 2020: lockdown of the Lombardy region and additional provinces in Piedmont, Veneto, Emilia-Romagna, Marche.
 - March 12, 2020: national lockdown.
 
-
 Grey shaded areas correspond to weekends.
 
+We compute the average degree of the network by considering two groups of users:
+1. all users irrespective of their daily number of contacts.
+2. only users who had at least one contact in a day.
+
+On March 21, the average degree of all users has declined from the pre-outbreak averages by **77% in the North**, **76% in the Center** and **70% in the South and the Islands**.
 
 <p align="center">
   <img src="{{ site.url }}/assets/prox_network_density_3panels_new.png">
 </p>
 
+
+On March 21, the average degree has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
+
+<p align="center">
+  <img src="{{ site.url }}/assets/prox_network_density_3panels_deg1.png">
+</p>
+
 We further look at how the proximity of our users has changed in different provinces by computing the relative difference of the average degree from February 10 to March 20, 2020.
+
+We report the average degree computed on all users in our panel.
+
 For each province, the daily relative difference is defined as the difference between the average degree and its minimum over the study period normalized by the amplitude difference of the average degree over the same period (i.e the difference between the minimum and the maximum).
 
 
@@ -99,7 +112,7 @@ The black lines correspond to the three major interventions by the government li
 ## Central Italy
 
 In Central Italy, the largest cities such as Rome (RM) and Florence (FI) have seen a strong and consistent decline in the average degree of the users' proximity network, as shown in the chart below, especially after March 8.
-We observe a higher spatial and temporal heterogeneity in the average relative difference of *&lt; k &gt;*, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
+We observe a higher spatial and temporal heterogeneity in the average relative difference of *&lt;k&gt;*, with a stronger and uniform decline during weekends (such as March 14-15) and some relative increase during weekdays.  
 
 
 <p align="center">
