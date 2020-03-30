@@ -84,7 +84,7 @@ On March 21, the average degree of all users has declined from the pre-outbreak 
 </p>
 
 
-On March 21, the average degree has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
+On March 21, the average degree of those users who had at least one contact in a day has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
 
 <p align="center">
   <img src="{{ site.url }}/assets/prox_network_density_3panels_deg1.png">
