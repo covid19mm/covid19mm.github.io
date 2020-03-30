@@ -74,17 +74,17 @@ In the figure below, red vertical lines highlight the start of three major inter
 Grey shaded areas correspond to weekends.
 
 We compute the average degree of the network by considering two groups of users:
-1. all users irrespective of their daily number of contacts.
+1. all users, irrespective of their daily number of contacts.
 2. only users who had at least one contact in a day.
 
-On March 21, the average degree of all users has declined from the pre-outbreak averages by **77% in the North**, **76% in the Center** and **70% in the South and the Islands**.
+On March 21, the average degree of _all users_ has declined from the pre-outbreak averages by **77% in the North**, **76% in the Center** and **70% in the South and the Islands**.
 
 <p align="center">
   <img src="{{ site.url }}/assets/prox_network_density_3panels_new.png">
 </p>
 
 
-On March 21, the average degree of those users who had at least one contact in a day has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
+On March 21, the average degree of _those users who had at least one contact in a day_ has declined from the pre-outbreak averages by **34% in the North**, **34% in the Center** and **25% in the South and the Islands**.
 
 <p align="center">
   <img src="{{ site.url }}/assets/prox_network_density_3panels_deg1.png">
