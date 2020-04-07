@@ -15,4 +15,4 @@ Our initial results are reported on medRxiv as a preprint:
 
 _Pepe, E., Bajardi, P., Gauvin, L., Privitera, F., Lake, B., Cattuto, C., & Tizzoni, M. (2020).
 [COVID-19 outbreak response: a first assessment of mobility changes in Italy following national lockdown](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1).
-medRxiv: https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1_
+medRxiv: [https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1)_
