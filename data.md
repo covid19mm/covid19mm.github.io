@@ -3,7 +3,7 @@ layout: page
 title: Data
 tagline:
 permalink: /data.html
-ref: about
+ref: data
 order: 2
 ---
 
