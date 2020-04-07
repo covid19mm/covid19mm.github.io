@@ -15,8 +15,8 @@ To make our results reproducible and to allow other researchers build upon our r
 
 If you find the data helpful or you use the data for your research, please cite our work:
 
-Pepe, E., Bajardi, P., Gauvin, L., Privitera, F., Lake, B., Cattuto, C., & Tizzoni, M. (2020).
-[COVID-19 outbreak response: a first assessment of mobility changes in Italy following national lockdown](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1).
+Pepe, E., Bajardi, P., Gauvin, L., Privitera, F., Lake, B., Cattuto, C., & Tizzoni, M. (2020).\
+[COVID-19 outbreak response: a first assessment of mobility changes in Italy following national lockdown](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1).\
 medRxiv: [https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1)
 
 
