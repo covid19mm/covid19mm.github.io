@@ -90,20 +90,20 @@ The reduction in proximity has been uniform across provinces in the North, Cente
 
 
 <p align="center">
-  <img src="{{ site.url }}/assets/density_relnord.png">
+  <img src="{{ site.url }}/assets/density_relnord_apr14.png">
 </p>
 
 ## Central Italy
 
 
 <p align="center">
-  <img src="{{ site.url }}/assets/density_relcenter.png">
+  <img src="{{ site.url }}/assets/density_relcenter_apr14.png">
 </p>
 
 ## Southern Italy
 
 <p align="center">
-  <img src="{{ site.url }}/assets/density_relsud.png">
+  <img src="{{ site.url }}/assets/density_relsud_apr14.png">
 </p>
 
 
