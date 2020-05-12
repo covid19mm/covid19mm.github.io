@@ -149,8 +149,8 @@ In those provinces, the radius of gyration has increased more than 3-fold.
 
 ## Proximity network
 
-The average degree of the proximity network, _<k>_, shows an increasing trend in all regions since the second half of April.  
-Overall, the values of _<k>_ remained below the baseline levels.
+The average degree of the proximity network, *&lt;k&gt;, shows an increasing trend in all regions since the second half of April.  
+Overall, the values of *&lt;k&gt;* remained below the baseline levels.
 After the lift of the lockdown, the average degree has increased to **-44%** below baseline in the North, **-36%** in the Center and **-34%** in the South.
 
 As reported in our [latest update](https://covid19mm.github.io/in-progress/2020/04/17/third-report.html), on April 12, Easter Day, the average degree of all users was **86% lower than the pre-outbreak averages in the North**, **83% in the Center** and **82% in the South and the Islands**.
