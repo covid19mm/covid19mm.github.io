@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fourth Report"
-date:  2020-05-08 18:00:00
+date:  2020-05-12 18:00:00
 author: The COVID19 MM working group
 categories: in-progress
 #cover:  "assets/instacode.png"
@@ -129,8 +129,8 @@ The table below shows the 10 connections with the smallest increase in mobility 
 | Alessandria        | Genova                  | -82%                 | -73%                |
 | Genova             | Alessandria             | -81%                 | -72%                |
 
-Overall, median users' movements on connections within the same region have increased from -77% to -53%.
-Connections between provinces of different regions have increased from -85% to -71% only.
+Overall, the median of users' movements on connections within the same region has increased from -77% to -53%.
+The median of users' movements on connections between provinces of different regions has increased from -85% to -71% only.
 
 
 ## Radius of gyration
