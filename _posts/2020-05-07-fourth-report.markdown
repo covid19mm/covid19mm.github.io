@@ -75,7 +75,7 @@ During the lockdown, the largest average reduction observed was **-91%**.
 
 The average degree of the proximity network, at the national level, has reached levels equal to **-40%** with respect to the baseline.
 
-While the radius of gyration has remained to very low levels, the degree of the proximity network has increased more quickly, suggesting that lifting the lockdown has led to an increase in short-range mobility rather than in long-range mobility.
+While the radius of gyration has remained at very low levels, the degree of the proximity network has increased more quickly, suggesting that lifting the lockdown has led to an increase in short-range mobility rather than in long-range mobility.
 
 
 ## Movements between provinces
