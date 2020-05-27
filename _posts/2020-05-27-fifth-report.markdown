@@ -96,7 +96,7 @@ Overall, the median of users' movements on connections within the same region ha
 The median of users' movements on connections between provinces of different regions has increased from -85% during the lockdown to -60%.
 
 <p align="center">
-  <img src="{{ site.url }}/assets/boxplots_regions_may22.png">
+  <img src="{{ site.url }}/assets/boxplot_regions_may22.png">
 </p>
 
 The table below shows the 10 connections with the largest increse in mobility in the week of May 15 - 22.
