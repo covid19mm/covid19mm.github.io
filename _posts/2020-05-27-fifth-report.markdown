@@ -159,7 +159,7 @@ Thus, the density of the proximity network has increased significantly more in t
   <img src="{{ site.url }}/assets/prox_network_density_corrected_3panels_density_may22.png">
 </p>
 
-It is worth to notice how the degree of proximity did not decrease much during weekends as it used to during the lockdown.
+It is worth noticing how the degree of proximity did not decrease much during weekends as it used to during the lockdown.
 This is a clear indicator of social activities restarting during leisure time.
 The difference observed in weekends during the lockdown and after the lift is particularly evident in the Center and the South.
 
