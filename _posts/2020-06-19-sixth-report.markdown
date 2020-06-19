@@ -85,7 +85,7 @@ On the other hand, outgoing movements from large urban areas remained generally 
 
 
 <p align="center">
-  <img src="{{ site.url }}/assets/map_outgoing_phase2_2panels_May22.png">
+  <img src="{{ site.url }}/assets/map_outgoing_phase2_june12.png">
 </p>
 
 
