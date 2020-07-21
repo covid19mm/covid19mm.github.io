@@ -30,5 +30,4 @@ Pepe, E., Bajardi, P., Gauvin, L., Privitera, F., Lake, B., Cattuto, C., & Tizzo
 [COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown](https://www.nature.com/articles/s41597-020-00575-2). Scientific Data 7, 230 (2020).<br/>
 
 
-
 [Go to the Home Page]({{ '/' | absolute_url }})
