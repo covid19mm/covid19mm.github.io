@@ -11,8 +11,9 @@ These pages are used to host on-going project work done through a Data Collabora
 
 The research project analyses anonymized location data to understand the effect of mobility restrictions and behavioral changes on the current international COVID-19 outbreak.
 
-Our initial results are reported on medRxiv as a preprint:
+The aggregated mobility data are publicly available as described [here](https://covid19mm.github.io/data.html).
+
+If you find the data helpful or you use the data for your research, please cite our work:
 
 _Pepe, E., Bajardi, P., Gauvin, L., Privitera, F., Lake, B., Cattuto, C., & Tizzoni, M. (2020).<br/>
-[COVID-19 outbreak response: a first assessment of mobility changes in Italy following national lockdown](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1).<br/>
-medRxiv: [https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v1)_
+[COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown](https://www.nature.com/articles/s41597-020-00575-2). Scientific Data 7, 230 (2020)_.<br/>
